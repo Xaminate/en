@@ -1,0 +1,76 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 168px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1rem;
+  animation-duration: 1000ms;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 60px auto;
+}.u-section-2 {
+  background-image: linear-gradient(to right, #1a1a1a, #333333);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 672px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  animation-duration: 1000ms;
+  text-shadow: 5px 4px 11px rgba(0,0,0,0.5);
+  margin: 32px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 302px;
+  height: 302px;
+  animation-duration: 1000ms;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 69px auto 0 30px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 302px;
+  height: 302px;
+  animation-duration: 1000ms;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
+  filter: brightness(0.45);
+  background-image: url("images/comingsoon.png");
+  background-position: 50% 50%;
+  margin: -302px auto 0;
+}
+
+.u-section-2 .u-image-3 {
+  width: 302px;
+  height: 302px;
+  animation-duration: 1000ms;
+  box-shadow: 5px 5px 20px 8px rgba(0,0,0,0.4);
+  margin: -302px 30px 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  animation-duration: 1000ms;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 30px auto 0 85px;
+}
+
+.u-section-2 .u-text-3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  animation-duration: 1000ms;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: -85px 52px 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  animation-duration: 1000ms;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: -85px auto 60px;
+}
